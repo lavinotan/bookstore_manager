@@ -1,0 +1,15 @@
+2021-03-28 18:08:15.588 [main] INFO  bookstore.book.BookStore - Starting Books
+2021-03-28 18:08:15.594 [main] INFO  bookstore.book.BookStore - 2021-03-29T01:08:15.591919900Z
+2021-03-28 18:08:15.603 [main] DEBUG bookstore.book.BookStore - run()
+2021-03-28 18:08:15.638 [AWT-EventQueue-0] DEBUG bookstore.book.data.AllData - loading the data
+2021-03-28 18:08:15.640 [AWT-EventQueue-0] DEBUG bookstore.book.db.Database - Loading database properties from db.properties
+2021-03-28 18:08:15.642 [AWT-EventQueue-0] DEBUG bookstore.book.db.Database - com.microsoft.sqlserver.jdbc.SQLServerDriver
+2021-03-28 18:08:15.711 [AWT-EventQueue-0] DEBUG bookstore.book.db.Database - Driver loaded
+2021-03-28 18:08:15.712 [AWT-EventQueue-0] DEBUG bookstore.book.db.Database - DB URL=jdbc:sqlserver://Beangrinder.bcit.ca
+2021-03-28 18:08:15.712 [AWT-EventQueue-0] DEBUG bookstore.book.db.Database - DB USER=javastudent
+2021-03-28 18:08:15.712 [AWT-EventQueue-0] DEBUG bookstore.book.db.Database - DB URL=compjava
+2021-03-28 18:08:16.135 [AWT-EventQueue-0] DEBUG bookstore.book.db.Database - Database connected
+2021-03-28 18:08:16.331 [AWT-EventQueue-0] DEBUG bookstore.book.db.Database - Found the target table named: A01030427_Customers
+2021-03-28 18:08:16.451 [AWT-EventQueue-0] DEBUG bookstore.book.db.Database - Found the target table named: A01030427_Books
+2021-03-28 18:08:16.476 [AWT-EventQueue-0] DEBUG bookstore.book.db.Database - Found the target table named: A01030427_Purchases
+2021-03-28 18:08:16.477 [AWT-EventQueue-0] DEBUG bookstore.book.data.AllData - successfully loaded the data
