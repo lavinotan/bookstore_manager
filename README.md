@@ -15,17 +15,23 @@ This is a Java MVC program to manage books, customers, and purchases for a virtu
 * Practice of I/O data operations with different types of plaintext formats, including .dat, .txt., and .csv files.
 
 ## Sample Output
-Program presentation/outlook: ![alt text](https://github.com/lavinotan/bookstore_manager/blob/d838dc72b5eb38b5956aaed3e7786fca03372ebe/sample_output/Program_outlook.PNG "Bookstore outlook")
+Program presentation/outlook: 
+![alt text](https://github.com/lavinotan/bookstore_manager/blob/d838dc72b5eb38b5956aaed3e7786fca03372ebe/sample_output/Program_outlook.PNG "Bookstore outlook")
 
-Customer report: ![alt text](https://github.com/lavinotan/bookstore_manager/blob/d838dc72b5eb38b5956aaed3e7786fca03372ebe/sample_output/Customer_report.PNG "Customer report example")
+Customer report: 
+![alt text](https://github.com/lavinotan/bookstore_manager/blob/d838dc72b5eb38b5956aaed3e7786fca03372ebe/sample_output/Customer_report.PNG "Customer report example")
 
-Customer details shows up when click row in customer report table: ![alt text](https://github.com/lavinotan/bookstore_manager/blob/d838dc72b5eb38b5956aaed3e7786fca03372ebe/sample_output/Customer_details.PNG "Customer detail example")
+Customer details shows up when click row in customer report table: 
+![alt text](https://github.com/lavinotan/bookstore_manager/blob/d838dc72b5eb38b5956aaed3e7786fca03372ebe/sample_output/Customer_details.PNG "Customer detail example")
 
-Purchase report options: ![alt text](https://github.com/lavinotan/bookstore_manager/blob/d838dc72b5eb38b5956aaed3e7786fca03372ebe/sample_output/Purchase_report_options.PNG "Purchase report options")
+Purchase report options: 
+![alt text](https://github.com/lavinotan/bookstore_manager/blob/d838dc72b5eb38b5956aaed3e7786fca03372ebe/sample_output/Purchase_report_options.PNG "Purchase report options")
 
-User input for customer ID filering to generate purchase report: ![alt text](https://github.com/lavinotan/bookstore_manager/blob/d838dc72b5eb38b5956aaed3e7786fca03372ebe/sample_output/Filter_by_customerID_purchase_report.PNG "User input for customer ID filering")
+User input for customer ID filering to generate purchase report: 
+![alt text](https://github.com/lavinotan/bookstore_manager/blob/d838dc72b5eb38b5956aaed3e7786fca03372ebe/sample_output/Filter_by_customerID_purchase_report.PNG "User input for customer ID filering")
 
-Purchase report filtered by customer ID: ![alt text](https://github.com/lavinotan/bookstore_manager/blob/d838dc72b5eb38b5956aaed3e7786fca03372ebe/sample_output/Purchase_report_filtered.PNG "Purchase report filtered by customer ID")
+Purchase report filtered by customer ID: 
+![alt text](https://github.com/lavinotan/bookstore_manager/blob/d838dc72b5eb38b5956aaed3e7786fca03372ebe/sample_output/Purchase_report_filtered.PNG "Purchase report filtered by customer ID")
 
 ## Miscellaneous
 ---
